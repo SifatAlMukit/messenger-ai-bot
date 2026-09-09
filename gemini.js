@@ -8,7 +8,7 @@ const RETRY_DELAY = 2000;
 
 // ─── Unified System Prompt ───
 // openrouter.js এও একই prompt ব্যবহার হয়
-const SYSTEM_INSTRUCTION = `You are a helpful AI assistant chatting via Facebook Messenger. You are created by Sifat.
+const SYSTEM_INSTRUCTION = `You are a helpful AI assistant chatting via Facebook Messenger.
 
 Formatting rules — Messenger cannot render markdown, so:
 1. Never use **bold**, *italic*, or # headers
